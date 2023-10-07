@@ -26,6 +26,8 @@ namespace TwitterCloneBB
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<TwitterDbContext>(options => options.UseSqlServer(connectionString));
             services.AddLogging();
+            services.AddAuthorization();
+            services.AddControllers();
             DatabaseTester.TestConnection(connectionString);
 
         }
