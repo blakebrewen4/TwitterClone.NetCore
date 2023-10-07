@@ -7,6 +7,7 @@ using Microsoft.Extensions.Hosting;
 using TwittercloneBB.Data;
 using Microsoft.EntityFrameworkCore;
 using Humanizer.Configuration;
+using TwittercloneBB.Utilities;
 
 
 namespace TwitterCloneBB
@@ -24,6 +25,8 @@ namespace TwitterCloneBB
         {
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
             services.AddDbContext<TwitterDbContext>(options => options.UseSqlServer(connectionString));
+            services.AddLogging();
+            DatabaseTester.TestConnection(connectionString);
 
         }
 
@@ -39,6 +42,18 @@ namespace TwitterCloneBB
                 app.UseHsts();
             }
 
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
+            });
         }
     }
 }

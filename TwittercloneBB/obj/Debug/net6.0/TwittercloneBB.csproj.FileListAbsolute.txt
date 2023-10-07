@@ -1,7 +1,11 @@
-C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.exe
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\appsettings.json
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.staticwebassets.runtime.json
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.exe
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.deps.json
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.runtimeconfig.json
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.dll
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\TwittercloneBB.pdb
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\bin\Debug\net6.0\Humanizer.dll
@@ -79,3 +83,5 @@ C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\TwittercloneBB.dll
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\refint\TwittercloneBB.dll
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\TwittercloneBB.pdb
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\TwittercloneBB.genruntimeconfig.cache
+C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\ref\TwittercloneBB.dll
