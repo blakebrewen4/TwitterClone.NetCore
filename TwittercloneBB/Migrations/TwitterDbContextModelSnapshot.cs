@@ -50,7 +50,7 @@ namespace TwittercloneBB.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Comments");
+                    b.ToTable("Comments", (string)null);
                 });
 
             modelBuilder.Entity("TwittercloneBB.Models.Like", b =>
@@ -73,7 +73,7 @@ namespace TwittercloneBB.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Likes");
+                    b.ToTable("Likes", (string)null);
                 });
 
             modelBuilder.Entity("TwittercloneBB.Models.Tweet", b =>
@@ -99,7 +99,7 @@ namespace TwittercloneBB.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("Tweets");
+                    b.ToTable("Tweets", (string)null);
                 });
 
             modelBuilder.Entity("TwittercloneBB.Models.User", b =>
@@ -141,7 +141,7 @@ namespace TwittercloneBB.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("Users", (string)null);
                 });
 
             modelBuilder.Entity("TwittercloneBB.Models.UserFollow", b =>
@@ -161,7 +161,7 @@ namespace TwittercloneBB.Migrations
 
                     b.HasIndex("UserId");
 
-                    b.ToTable("UserFollows");
+                    b.ToTable("UserFollows", (string)null);
                 });
 
             modelBuilder.Entity("TwittercloneBB.Models.Comment", b =>

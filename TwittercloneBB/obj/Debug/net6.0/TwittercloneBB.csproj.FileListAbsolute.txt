@@ -85,4 +85,3 @@ C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\TwittercloneBB.pdb
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\TwittercloneBB.genruntimeconfig.cache
 C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\ref\TwittercloneBB.dll
-C:\Users\Blake Brewen\source\repos\TwittercloneBB\TwittercloneBB\obj\Debug\net6.0\TwittercloneBB.sourcelink.json
