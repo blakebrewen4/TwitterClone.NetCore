@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hiOleQVdUQPW+5BV74jPDrxWcCVjR5i8RBKXRq/GPrbJspTuq7td8JBmMYm6KLTdEu1/eAgZSeiTt3MAEszAng==",
+  "dgSpecHash": "CG2EkzeIZCf2cuJqtT62jq3ebkhPVg30VAxwvhDweb0Zr+vI/JKe+o0iyn5kUmXAgxDzfO3iNH9IsqLb7mhhjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blake Brewen\\source\\repos\\TwitterCloneAPIUserAuth\\TwitterCloneAPIUserAuth.csproj",
+  "projectFilePath": "C:\\Users\\Blake Brewen\\source\\repos\\TwittercloneBB\\TwitterCloneAPIUserAuth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Blake Brewen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Blake Brewen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

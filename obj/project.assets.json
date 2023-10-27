@@ -3482,11 +3482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blake Brewen\\source\\repos\\TwitterCloneAPIUserAuth\\TwitterCloneAPIUserAuth.csproj",
+      "projectUniqueName": "C:\\Users\\Blake Brewen\\source\\repos\\TwittercloneBB\\TwitterCloneAPIUserAuth.csproj",
       "projectName": "TwitterCloneAPIUserAuth",
-      "projectPath": "C:\\Users\\Blake Brewen\\source\\repos\\TwitterCloneAPIUserAuth\\TwitterCloneAPIUserAuth.csproj",
+      "projectPath": "C:\\Users\\Blake Brewen\\source\\repos\\TwittercloneBB\\TwitterCloneAPIUserAuth.csproj",
       "packagesPath": "C:\\Users\\Blake Brewen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blake Brewen\\source\\repos\\TwitterCloneAPIUserAuth\\obj\\",
+      "outputPath": "C:\\Users\\Blake Brewen\\source\\repos\\TwittercloneBB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
